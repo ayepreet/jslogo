@@ -3,6 +3,7 @@ eo Esperanto
 es Español
 fr Français
 he עברית
+hi हिंदी
 it Italiano
 ja 日本語
 pl Polski

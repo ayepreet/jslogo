@@ -3,8 +3,8 @@
     "translations": {
       "title": "लोगो इंटरप्रेटर (शैली लोगो)",
       "tl-title": "लोगो इंटरप्रेटर (शैली लोगो)",
-      "tl-tests": "",
-      "tl-source": "Código",
+      "tl-tests": "परीक्षण",
+      "tl-source": "मूल कोड",
       "tl-reference": "Referencias",
       "start-togetherjs": "Colabora",
       "no-canvas": "Su navegador no soporta el elemento canvas",
@@ -32,8 +32,8 @@
       "history-placeholder": "Los comandos que introduzca aparecerán aquí para que pueda encontrarlos, modificarlos y volver a ejecutarlos."
     },
     "messages": {
-      "Clear history: Are you sure?": "Limpiar el historial: ¿Está seguro?",
-      "Clear library: Are you sure?": "Limpiar la biblioteca: ¿Está seguro?"
+      "Clear history: Are you sure?": "इतिहास साफ़ करें: क्या आप निश्चित हैं?",
+      "Clear library: Are you sure?": "संग्रह साफ़ करें: क्या आप निश्चित हैं?"
     }
   },
   "interpreter": {
